@@ -1,11 +1,14 @@
 # cheerio-gs
 Cheerio.gs library For Google App Script or Google Spreadsheet
 
-How to Use?
-  1)First Create a App script File giving any name.
-  2)Copy the Cheerio.gs code and paste on that appscript file.
-  3)Save the file and create another appscript file for web scraping works.
-  4)On that file you can write web scraping code using cheeerio.gs
+<h2>How to use cheerio in App script</h2>
+<ol>
+<li>First Create a App script File giving any name.</li>
+  <li>Copy the Cheerio.gs code and paste on that appscript file.</li>
+  <li>Save the file and create another appscript file for web scraping works.</li>
+  <li>On that file you can write web scraping code using cheeerio.gs</li>
+</ol>
+
 Example and Method :
 <pre>
 <code>
