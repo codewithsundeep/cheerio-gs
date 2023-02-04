@@ -1,5 +1,5 @@
 # cheerio-gs
-Cheerio.gs library For Google App Script or Google Spreadsheet
+<p>Cheerio.gs library For Google App Script or Google Spreadsheet</p>
 
 <h2>How to use cheerio in App script</h2>
 <ol>
@@ -23,6 +23,6 @@ Example and Method :
   Logger.log($("body").text())
 </code>
 </pre>
-  Now You Can Use all other cheerio properties and methods following <a href="https://cheerio.js.org/">cheerio.js documentation</a>.
+  <p>Now You Can Use all other cheerio properties and methods following <a href="https://cheerio.js.org/">cheerio.js documentation</a>.</p>
   
   
