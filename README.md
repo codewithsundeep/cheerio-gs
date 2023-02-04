@@ -4,7 +4,7 @@
 <h2>How to use cheerio in App script</h2>
 <ol>
 <li>First Create a App script File giving any name.</li>
-  <li>Copy the Cheerio.gs code and paste on that appscript file.</li>
+  <li>Copy the <a href="https://github.com/codewithsundeep/cheerio-gs/blob/main/cheerio.gs">Cheerio.gs code</a> and paste on that appscript file.</li>
   <li>Save the file and create another appscript file for web scraping works.</li>
   <li>On that file you can write web scraping code using cheeerio.gs</li>
 </ol>
